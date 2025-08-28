@@ -1,4 +1,4 @@
-# Olá, eu sou o Clenio Guedes mas pode me chamar de Vitor👋
+# Olá, eu sou o Clenio Guedes 👋
 
 💻 Estudante de Ciência da Computação na Uniesp
 🚀 Focado em Programação, Redes e Segurança  
